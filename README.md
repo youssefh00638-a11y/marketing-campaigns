@@ -1,4 +1,4 @@
-# Project: Multi-Touch Marketing Attribution & Budget Optimizer
+# Multi-Touch Marketing Attribution & Budget Optimizer
 
 ## Executive Summary
 This project delivers a scalable, end-to-end analytics framework designed to map the multi-touch customer journey, accurately attribute revenue across all marketing touchpoints, and forecast future revenue trends. By transitioning from reactive, siloed reporting to proactive, data-driven modeling, this framework provides executive leadership with the clarity needed to optimize a $107.39K marketing budget, revealing massive optimization opportunities to improve the current 1.53 ROAS.
