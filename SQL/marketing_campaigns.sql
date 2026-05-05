@@ -4,15 +4,6 @@ use markerting_campaigns
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
-select * from ad_spend
-select * from campaigns 
-select * from customers 
-select * from conversions 
-select * from touchpoints 
-
-select * from orders o 
-join customers c on o.Customer_ID = c.Customer_ID
-where c.Customer_ID is null 
 
 -- 1. Create the mapping table structure
 CREATE TABLE dim_Channel_Mapping (
@@ -150,7 +141,6 @@ JOIN vw_stg_conversions conv
     AND t.touchpoint_date <= conv.conversion_date
     AND t.touchpoint_date >= DATEADD(day, -30, conv.conversion_date); 
 
-select top 10 * from customer_journey 
 
 CREATE OR ALTER VIEW vw_marketing_attribution AS
 WITH attribution_calculated AS (
@@ -246,8 +236,7 @@ FULL OUTER JOIN daily_spend ds
     AND a.campaign_id = ds.campaign_id;
 
 
-select * from vw_marketing_attribution
-where date between '2024-01-29' and '2024-02-23'
+
 
 
 
