@@ -5,7 +5,7 @@ use markerting_campaigns
 ----------------------------------------------
 ----------------------------------------------
 
--- 1. Create the mapping table structure
+-- mapping table structure
 CREATE TABLE dim_Channel_Mapping (
     Raw_Channel_Name VARCHAR(50) PRIMARY KEY,
     Clean_Channel_Name VARCHAR(50),
@@ -13,7 +13,7 @@ CREATE TABLE dim_Channel_Mapping (
     Is_Paid BIT 
 );
 
--- 2. Populate with all channels set to 'Paid' (Is_Paid = 1)
+
 INSERT INTO dim_Channel_Mapping (Raw_Channel_Name, Clean_Channel_Name, Channel_Group, Is_Paid)
 VALUES 
 ('Facebook',   'Facebook',    'Paid Social', 1),
