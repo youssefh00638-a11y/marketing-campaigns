@@ -1,0 +1,18 @@
+﻿supplier_id,name,contact_name,phone,status,email,address,is_suspended,created_at
+1,Hassan,Hassan Mostafa,20336696312,unknown,s1@example.com,giza,0,2024-11-27
+2,Ahmed,Ahmed Hassan,20582334538,suspended,s2@example.com,cairo,1,2025-05-15
+3,Karim,Karim Mahmoud,20732719211,active,s3@example.com,alexandria,0,2024-01-20
+4,Omar,Omar Khaled,20398704996,suspended,s4@example.com,cairo,1,2024-04-24
+5,Omar,Omar Khaled,20969119330,suspended,s5@example.com,unknown,1,2025-01-06
+6,Hassan,Hassan Mostafa,20106977991,active,unknown,giza,0,2024-11-10
+7,James,James Miller,20914763202,unknown,s7@example.com,unknown,0,2024-09-02
+8,Mohamed,Mohamed Ali,20965241839,unknown,s8@example.com,giza,0,2024-02-29
+9,Omar,Omar Khaled,20271432881,active,s9@example.com,alexandria,0,2024-09-03
+10,Amr,Amr Adel,20849621470,suspended,unknown,giza,1,2025-08-03
+11,Mohamed,Mohamed Ali,20553778756,suspended,s11@example.com,giza,1,2024-03-21
+12,Omar,Omar Khaled,20465341213,unknown,s12@example.com,alexandria,0,2024-03-28
+13,Hassan,Hassan Mostafa,20398362082,active,s13@example.com,giza,0,2025-05-12
+14,Karim,Karim Mahmoud,20266944844,active,s14@example.com,cairo,0,2024-03-11
+15,Mahmoud,Mahmoud Saeed,20331191390,active,s15@example.com,alexandria,0,2025-06-29
+16,James,James Miller,20919795579,suspended,unknown,alexandria,1,2024-05-08
+17,Karim,Karim Mahmoud,20461415646,suspended,s17@example.com,alexandria,1,2024-05-11

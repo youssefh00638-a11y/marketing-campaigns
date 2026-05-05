@@ -1,0 +1,801 @@
+﻿customer_id,first_seen_date,country,region,city,device_type,acquisition_channel,channel_group
+1,2024-02-03,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+2,2024-01-29,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+3,2024-01-26,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+4,2024-02-01,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+5,2024-01-30,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+6,2024-03-13,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+7,2024-01-15,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+8,2024-02-04,Egypt,MENA,Giza,Tablet,Organic,Organic Search
+9,2024-02-29,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+10,2024-03-11,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+11,2024-01-05,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+12,2024-03-08,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+13,2024-02-07,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+14,2024-02-07,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+15,2024-03-30,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+16,2024-01-02,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+17,2024-03-17,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+18,2024-03-25,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+19,2024-03-26,Egypt,MENA,Alexandria,Mobile,Facebook,Paid Social
+20,2024-02-11,Egypt,MENA,Giza,Mobile,Facebook,Paid Social
+21,2024-03-19,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+22,2024-02-12,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+23,2024-02-18,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+24,2024-03-18,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+25,2024-03-01,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+26,2024-03-04,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+27,2024-03-01,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+28,2024-03-04,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+29,2024-01-05,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+30,2024-03-11,Egypt,MENA,Cairo,Tablet,Organic,Organic Search
+31,2024-01-20,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+32,2024-01-27,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+33,2024-01-07,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+34,2024-01-03,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+35,2024-01-27,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+36,2024-01-14,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+37,2024-02-07,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+38,2024-03-13,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+39,2024-01-16,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+40,2024-02-29,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+41,2024-02-18,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+42,2024-02-08,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+43,2024-03-23,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+44,2024-01-20,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+45,2024-03-22,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+46,2024-03-13,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+47,2024-01-30,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+48,2024-03-02,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+49,2024-03-29,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+50,2024-01-15,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+51,2024-01-04,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+52,2024-01-18,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+53,2024-02-27,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+54,2024-02-22,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+55,2024-03-11,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+56,2024-02-10,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+57,2024-03-18,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+58,2024-02-25,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+59,2024-02-12,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+60,2024-01-06,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+61,2024-02-14,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+62,2024-01-11,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+63,2024-02-03,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+64,2024-01-17,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+65,2024-03-03,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+66,2024-03-08,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+67,2024-03-13,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+68,2024-03-24,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+69,2024-02-14,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+70,2024-03-13,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+71,2024-03-01,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+72,2024-02-27,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+73,2024-02-11,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+74,2024-02-12,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+75,2024-01-23,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+76,2024-01-25,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+77,2024-02-15,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+78,2024-02-23,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+79,2024-01-07,Egypt,MENA,Cairo,Mobile,Email,Email Marketing
+80,2024-03-30,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+81,2024-03-27,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+82,2024-02-21,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+83,2024-02-15,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+84,2024-01-17,Egypt,MENA,Alexandria,Mobile,Organic,Organic Search
+85,2024-02-06,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+86,2024-01-25,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+87,2024-03-08,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+88,2024-03-10,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+89,2024-02-25,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+90,2024-03-20,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+91,2024-02-07,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+92,2024-03-11,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+93,2024-02-01,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+94,2024-01-06,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+95,2024-02-01,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+96,2024-02-18,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+97,2024-03-30,Egypt,MENA,Cairo,Tablet,Google Ads,Paid Search
+98,2024-02-21,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+99,2024-03-22,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+100,2024-03-16,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+101,2024-03-05,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+102,2024-01-30,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+103,2024-01-29,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+104,2024-02-23,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+105,2024-03-27,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+106,2024-01-22,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+107,2024-02-01,Egypt,MENA,Cairo,Tablet,Google Ads,Paid Search
+108,2024-03-23,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+109,2024-02-20,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+110,2024-02-15,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+111,2024-03-08,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+112,2024-03-03,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+113,2024-03-26,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+114,2024-02-27,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+115,2024-01-30,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+116,2024-03-01,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+117,2024-03-26,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+118,2024-01-22,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+119,2024-01-21,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+120,2024-02-10,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+121,2024-01-29,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+122,2024-03-19,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+123,2024-03-19,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+124,2024-03-11,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+125,2024-02-26,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+126,2024-02-06,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+127,2024-03-29,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+128,2024-02-13,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+129,2024-02-08,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+130,2024-01-13,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+131,2024-03-06,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+132,2024-02-28,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+133,2024-02-13,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+134,2024-02-07,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+135,2024-03-12,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+136,2024-03-08,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+137,2024-02-05,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+138,2024-03-09,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+139,2024-03-23,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+140,2024-01-23,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+141,2024-03-31,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+142,2024-03-24,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+143,2024-03-21,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+144,2024-03-12,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+145,2024-01-14,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+146,2024-02-28,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+147,2024-02-20,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+148,2024-03-21,Saudi Arabia,MENA,Riyadh,Desktop,Organic,Organic Search
+149,2024-02-16,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+150,2024-03-20,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+151,2024-01-25,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+152,2024-02-03,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+153,2024-02-15,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+154,2024-02-17,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+155,2024-01-04,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+156,2024-03-15,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+157,2024-02-28,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+158,2024-01-03,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+159,2024-01-15,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+160,2024-01-26,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+161,2024-01-16,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+162,2024-01-08,Egypt,MENA,Alexandria,Tablet,Facebook,Paid Social
+163,2024-01-10,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+164,2024-03-25,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+165,2024-03-25,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+166,2024-02-19,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+167,2024-02-26,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+168,2024-01-26,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+169,2024-02-07,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+170,2024-01-22,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+171,2024-03-04,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+172,2024-01-04,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+173,2024-01-29,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+174,2024-03-25,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+175,2024-03-20,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+176,2024-03-15,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+177,2024-03-20,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+178,2024-03-03,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+179,2024-02-23,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+180,2024-02-10,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+181,2024-03-10,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+182,2024-03-14,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+183,2024-02-22,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+184,2024-01-30,Egypt,MENA,Cairo,Tablet,Organic,Organic Search
+185,2024-01-22,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+186,2024-02-10,Egypt,MENA,Giza,Tablet,Organic,Organic Search
+187,2024-02-05,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+188,2024-02-18,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+189,2024-01-03,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+190,2024-03-16,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+191,2024-03-07,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+192,2024-01-31,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+193,2024-01-01,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+194,2024-02-03,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+195,2024-03-09,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+196,2024-02-02,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+197,2024-02-16,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+198,2024-02-29,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+199,2024-03-16,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+200,2024-03-18,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+201,2024-03-18,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+202,2024-01-09,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+203,2024-02-26,Egypt,MENA,Alexandria,Mobile,Facebook,Paid Social
+204,2024-03-28,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+205,2024-03-09,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+206,2024-01-08,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+207,2024-02-27,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+208,2024-02-17,Egypt,MENA,Giza,Mobile,Email,Email Marketing
+209,2024-02-24,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+210,2024-01-22,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+211,2024-03-28,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+212,2024-02-19,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+213,2024-03-29,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+214,2024-03-25,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+215,2024-03-25,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+216,2024-03-24,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+217,2024-03-17,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+218,2024-02-10,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+219,2024-03-09,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+220,2024-01-19,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+221,2024-02-12,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+222,2024-03-16,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+223,2024-02-24,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+224,2024-03-30,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+225,2024-01-24,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+226,2024-01-14,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+227,2024-02-24,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+228,2024-02-13,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+229,2024-03-18,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+230,2024-03-20,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+231,2024-01-29,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+232,2024-03-29,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+233,2024-03-08,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+234,2024-01-18,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+235,2024-01-10,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+236,2024-03-11,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+237,2024-03-01,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+238,2024-01-07,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+239,2024-01-21,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+240,2024-02-16,Egypt,MENA,Alexandria,Desktop,Organic,Organic Search
+241,2024-01-05,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+242,2024-01-20,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+243,2024-03-24,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+244,2024-02-17,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+245,2024-01-21,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+246,2024-02-06,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+247,2024-03-07,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+248,2024-02-02,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+249,2024-02-10,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+250,2024-03-08,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+251,2024-01-14,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+252,2024-01-10,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+253,2024-01-29,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+254,2024-02-05,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+255,2024-03-05,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+256,2024-03-04,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+257,2024-02-09,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+258,2024-01-24,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+259,2024-01-27,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+260,2024-02-24,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+261,2024-03-18,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+262,2024-02-02,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+263,2024-01-17,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+264,2024-01-10,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+265,2024-01-04,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+266,2024-03-24,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+267,2024-03-30,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+268,2024-02-05,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+269,2024-01-17,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+270,2024-03-23,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+271,2024-03-25,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+272,2024-01-05,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+273,2024-02-25,Egypt,MENA,Cairo,Tablet,Google Ads,Paid Search
+274,2024-01-06,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+275,2024-02-25,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+276,2024-01-13,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+277,2024-01-29,Egypt,MENA,Cairo,Mobile,Facebook,Paid Social
+278,2024-03-08,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+279,2024-02-06,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+280,2024-02-11,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+281,2024-03-18,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+282,2024-03-19,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+283,2024-01-02,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+284,2024-02-05,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+285,2024-01-15,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+286,2024-03-03,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+287,2024-02-15,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+288,2024-03-02,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+289,2024-03-18,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+290,2024-01-21,Egypt,MENA,Giza,Desktop,Organic,Organic Search
+291,2024-01-23,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+292,2024-03-29,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+293,2024-02-21,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+294,2024-02-18,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+295,2024-01-21,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+296,2024-03-17,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+297,2024-01-06,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+298,2024-01-28,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+299,2024-03-08,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+300,2024-03-15,Egypt,MENA,Alexandria,Desktop,Organic,Organic Search
+301,2024-03-22,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+302,2024-02-12,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+303,2024-03-18,Egypt,MENA,Giza,Mobile,Email,Email Marketing
+304,2024-02-26,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+305,2024-03-14,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+306,2024-03-29,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+307,2024-01-04,Egypt,MENA,Alexandria,Desktop,Organic,Organic Search
+308,2024-02-09,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+309,2024-01-06,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+310,2024-03-14,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+311,2024-02-11,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+312,2024-02-16,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+313,2024-02-22,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+314,2024-03-26,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+315,2024-01-04,Egypt,MENA,Alexandria,Mobile,Facebook,Paid Social
+316,2024-02-12,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+317,2024-01-19,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+318,2024-02-17,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+319,2024-03-28,Egypt,MENA,Cairo,Mobile,Facebook,Paid Social
+320,2024-03-24,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+321,2024-03-08,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+322,2024-01-28,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+323,2024-02-13,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+324,2024-02-10,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+325,2024-01-27,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+326,2024-03-28,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+327,2024-02-20,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+328,2024-01-26,Egypt,MENA,Giza,Mobile,Organic,Organic Search
+329,2024-02-22,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+330,2024-03-01,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+331,2024-03-25,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+332,2024-01-07,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+333,2024-03-11,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+334,2024-03-20,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+335,2024-01-17,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+336,2024-01-11,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+337,2024-03-14,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+338,2024-01-08,Egypt,MENA,Cairo,Tablet,Organic,Organic Search
+339,2024-01-24,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+340,2024-01-14,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+341,2024-03-21,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+342,2024-02-10,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+343,2024-03-11,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+344,2024-02-15,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+345,2024-01-22,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+346,2024-02-08,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+347,2024-03-12,Egypt,MENA,Cairo,Mobile,Facebook,Paid Social
+348,2024-01-12,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+349,2024-01-23,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+350,2024-02-17,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+351,2024-03-03,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+352,2024-01-06,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+353,2024-02-03,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+354,2024-03-26,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+355,2024-03-17,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+356,2024-03-10,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+357,2024-03-15,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+358,2024-02-01,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+359,2024-01-19,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+360,2024-03-11,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+361,2024-01-26,Egypt,MENA,Cairo,Mobile,Email,Email Marketing
+362,2024-03-18,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+363,2024-02-10,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+364,2024-02-29,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+365,2024-02-12,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+366,2024-03-22,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+367,2024-01-11,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+368,2024-01-21,Egypt,MENA,Alexandria,Mobile,Organic,Organic Search
+369,2024-03-17,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+370,2024-03-30,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+371,2024-03-04,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+372,2024-02-20,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+373,2024-02-20,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+374,2024-03-10,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+375,2024-03-29,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+376,2024-01-03,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+377,2024-02-28,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+378,2024-02-16,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+379,2024-02-04,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+380,2024-03-11,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+381,2024-03-23,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+382,2024-02-26,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+383,2024-01-31,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+384,2024-01-30,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+385,2024-01-02,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+386,2024-01-29,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+387,2024-01-14,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+388,2024-03-15,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+389,2024-03-03,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+390,2024-02-10,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+391,2024-03-17,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+392,2024-01-09,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+393,2024-01-25,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+394,2024-02-02,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+395,2024-01-11,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+396,2024-03-17,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+397,2024-02-17,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+398,2024-02-24,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+399,2024-02-28,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+400,2024-01-14,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+401,2024-03-22,Egypt,MENA,Cairo,Tablet,Organic,Organic Search
+402,2024-03-02,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+403,2024-01-01,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+404,2024-01-18,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+405,2024-01-22,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+406,2024-01-14,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+407,2024-01-19,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+408,2024-03-13,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+409,2024-02-25,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+410,2024-03-10,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+411,2024-02-21,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+412,2024-03-31,Saudi Arabia,MENA,Riyadh,Desktop,Organic,Organic Search
+413,2024-03-20,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+414,2024-02-13,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+415,2024-03-22,Egypt,MENA,Giza,Mobile,Email,Email Marketing
+416,2024-01-23,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+417,2024-02-28,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+418,2024-03-23,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+419,2024-03-11,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+420,2024-03-14,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+421,2024-01-25,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+422,2024-01-26,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+423,2024-01-27,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+424,2024-01-20,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+425,2024-01-22,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+426,2024-03-23,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+427,2024-02-27,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+428,2024-01-11,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+429,2024-01-05,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+430,2024-03-08,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+431,2024-01-09,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+432,2024-01-16,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+433,2024-02-03,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+434,2024-02-07,Egypt,MENA,Alexandria,Mobile,Organic,Organic Search
+435,2024-01-28,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+436,2024-02-05,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+437,2024-02-09,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+438,2024-03-17,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+439,2024-03-05,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+440,2024-01-02,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+441,2024-02-22,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+442,2024-01-05,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+443,2024-01-30,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+444,2024-03-29,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+445,2024-02-18,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+446,2024-03-07,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+447,2024-02-19,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+448,2024-01-13,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+449,2024-03-19,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+450,2024-01-03,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+451,2024-01-18,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+452,2024-03-01,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+453,2024-02-10,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+454,2024-02-07,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+455,2024-02-12,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+456,2024-02-16,Egypt,MENA,Alexandria,Desktop,Organic,Organic Search
+457,2024-03-30,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+458,2024-02-26,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+459,2024-01-10,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+460,2024-02-19,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+461,2024-02-23,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+462,2024-03-12,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+463,2024-03-16,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+464,2024-01-02,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+465,2024-02-23,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+466,2024-01-12,Egypt,MENA,Giza,Mobile,Facebook,Paid Social
+467,2024-02-16,Egypt,MENA,Alexandria,Mobile,Organic,Organic Search
+468,2024-02-02,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+469,2024-02-19,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+470,2024-01-19,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+471,2024-02-15,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+472,2024-01-17,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+473,2024-01-23,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+474,2024-03-18,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+475,2024-01-21,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+476,2024-01-21,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+477,2024-02-01,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+478,2024-02-04,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+479,2024-01-10,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+480,2024-01-15,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+481,2024-01-26,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+482,2024-03-13,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+483,2024-03-02,Egypt,MENA,Giza,Tablet,Organic,Organic Search
+484,2024-01-28,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+485,2024-03-31,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+486,2024-01-02,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+487,2024-01-17,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+488,2024-03-05,Egypt,MENA,Giza,Desktop,Google Ads,Paid Search
+489,2024-03-29,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+490,2024-01-23,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+491,2024-03-22,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+492,2024-01-06,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+493,2024-02-17,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+494,2024-02-06,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+495,2024-03-21,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+496,2024-03-02,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+497,2024-01-24,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+498,2024-01-15,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+499,2024-02-27,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+500,2024-03-28,United Arab Emirates,MENA,Abu Dhabi,Tablet,Email,Email Marketing
+501,2024-03-18,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+502,2024-02-14,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+503,2024-01-16,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+504,2024-01-15,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+505,2024-02-01,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+506,2024-02-11,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+507,2024-02-29,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+508,2024-03-28,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+509,2024-01-09,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+510,2024-03-26,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+511,2024-02-13,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+512,2024-03-05,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+513,2024-03-23,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+514,2024-03-03,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+515,2024-02-17,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+516,2024-03-15,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+517,2024-03-04,Egypt,MENA,Giza,Tablet,Email,Email Marketing
+518,2024-01-10,Egypt,MENA,Alexandria,Tablet,Facebook,Paid Social
+519,2024-03-15,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+520,2024-02-28,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+521,2024-01-13,Saudi Arabia,MENA,Jeddah,Tablet,Organic,Organic Search
+522,2024-03-18,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+523,2024-02-25,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+524,2024-02-21,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+525,2024-03-10,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+526,2024-02-03,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+527,2024-03-23,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+528,2024-01-12,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+529,2024-01-04,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+530,2024-02-18,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+531,2024-03-31,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+532,2024-03-22,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+533,2024-01-13,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+534,2024-01-05,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+535,2024-01-27,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+536,2024-02-29,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+537,2024-02-03,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+538,2024-02-01,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+539,2024-02-07,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+540,2024-02-27,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+541,2024-01-01,United Arab Emirates,MENA,Abu Dhabi,Mobile,Google Ads,Paid Search
+542,2024-03-01,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+543,2024-02-22,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+544,2024-03-15,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+545,2024-03-30,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+546,2024-01-01,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+547,2024-01-27,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+548,2024-03-02,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+549,2024-01-18,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+550,2024-03-21,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+551,2024-01-23,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+552,2024-02-06,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+553,2024-01-21,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+554,2024-01-13,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+555,2024-02-04,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+556,2024-03-31,Egypt,MENA,Giza,Mobile,Email,Email Marketing
+557,2024-03-02,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+558,2024-01-20,United Arab Emirates,MENA,Dubai,Mobile,Facebook,Paid Social
+559,2024-02-21,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+560,2024-01-22,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+561,2024-02-21,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+562,2024-02-05,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+563,2024-02-08,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+564,2024-03-05,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
+565,2024-01-02,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+566,2024-01-11,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+567,2024-01-25,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+568,2024-03-19,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+569,2024-03-26,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+570,2024-02-27,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+571,2024-01-24,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+572,2024-01-13,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+573,2024-02-18,Egypt,MENA,Alexandria,Desktop,Google Ads,Paid Search
+574,2024-03-28,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+575,2024-01-24,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+576,2024-02-16,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+577,2024-03-21,Saudi Arabia,MENA,Riyadh,Mobile,Google Ads,Paid Search
+578,2024-02-26,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+579,2024-01-13,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+580,2024-02-16,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+581,2024-01-18,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+582,2024-02-25,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+583,2024-02-08,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+584,2024-02-08,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+585,2024-03-14,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+586,2024-01-01,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+587,2024-02-12,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+588,2024-02-11,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+589,2024-01-01,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+590,2024-02-04,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+591,2024-02-10,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+592,2024-02-04,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+593,2024-01-25,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+594,2024-02-03,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+595,2024-01-13,Egypt,MENA,Giza,Desktop,Organic,Organic Search
+596,2024-01-06,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+597,2024-01-09,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+598,2024-02-27,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+599,2024-02-19,Egypt,MENA,Cairo,Mobile,Email,Email Marketing
+600,2024-02-24,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+601,2024-02-27,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+602,2024-01-06,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+603,2024-01-02,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+604,2024-03-15,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+605,2024-03-16,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+606,2024-02-17,Egypt,MENA,Cairo,Mobile,Facebook,Paid Social
+607,2024-02-01,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+608,2024-03-03,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+609,2024-02-04,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+610,2024-01-03,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+611,2024-01-28,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+612,2024-01-28,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+613,2024-01-26,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+614,2024-03-28,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+615,2024-01-28,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+616,2024-02-19,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+617,2024-01-06,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+618,2024-01-20,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+619,2024-03-12,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+620,2024-03-17,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+621,2024-03-16,Egypt,MENA,Giza,Desktop,Email,Email Marketing
+622,2024-03-27,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+623,2024-02-05,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+624,2024-03-09,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+625,2024-02-12,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+626,2024-02-15,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+627,2024-03-30,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+628,2024-02-25,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+629,2024-01-01,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+630,2024-01-24,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+631,2024-02-26,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+632,2024-01-02,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+633,2024-02-14,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+634,2024-02-19,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+635,2024-03-11,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+636,2024-01-02,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+637,2024-02-14,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+638,2024-03-29,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+639,2024-03-03,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+640,2024-03-04,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+641,2024-03-17,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+642,2024-02-26,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+643,2024-01-29,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+644,2024-01-14,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+645,2024-01-04,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+646,2024-01-24,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+647,2024-03-23,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+648,2024-03-30,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+649,2024-03-01,Egypt,MENA,Alexandria,Mobile,Email,Email Marketing
+650,2024-03-27,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+651,2024-01-11,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+652,2024-02-07,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+653,2024-02-01,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+654,2024-01-30,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+655,2024-02-26,United Arab Emirates,MENA,Dubai,Desktop,Facebook,Paid Social
+656,2024-01-19,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+657,2024-02-26,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+658,2024-01-09,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+659,2024-01-10,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+660,2024-02-03,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+661,2024-01-18,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+662,2024-03-06,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+663,2024-01-08,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+664,2024-01-21,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+665,2024-01-14,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+666,2024-02-09,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+667,2024-01-20,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+668,2024-03-25,United Arab Emirates,MENA,Dubai,Desktop,Email,Email Marketing
+669,2024-02-21,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+670,2024-03-27,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+671,2024-01-09,Egypt,MENA,Giza,Tablet,Email,Email Marketing
+672,2024-01-25,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+673,2024-02-02,Egypt,MENA,Alexandria,Desktop,Organic,Organic Search
+674,2024-02-12,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+675,2024-02-07,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+676,2024-02-27,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+677,2024-02-01,Egypt,MENA,Cairo,Tablet,Email,Email Marketing
+678,2024-01-10,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+679,2024-02-03,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+680,2024-01-05,Egypt,MENA,Giza,Mobile,Google Ads,Paid Search
+681,2024-03-28,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+682,2024-03-08,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+683,2024-01-12,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+684,2024-02-04,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+685,2024-03-29,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+686,2024-03-11,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+687,2024-02-21,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+688,2024-01-19,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+689,2024-01-03,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+690,2024-02-07,Egypt,MENA,Giza,Desktop,Facebook,Paid Social
+691,2024-03-06,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+692,2024-01-11,Saudi Arabia,MENA,Jeddah,Desktop,Email,Email Marketing
+693,2024-01-15,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+694,2024-03-03,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+695,2024-02-01,Egypt,MENA,Alexandria,Mobile,Google Ads,Paid Search
+696,2024-02-16,Egypt,MENA,Alexandria,Tablet,Google Ads,Paid Search
+697,2024-02-03,Egypt,MENA,Cairo,Mobile,Email,Email Marketing
+698,2024-03-09,Egypt,MENA,Alexandria,Desktop,Email,Email Marketing
+699,2024-02-17,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+700,2024-01-11,Saudi Arabia,MENA,Riyadh,Desktop,Email,Email Marketing
+701,2024-03-21,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+702,2024-03-21,Egypt,MENA,Cairo,Desktop,Google Ads,Paid Search
+703,2024-01-22,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+704,2024-02-08,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+705,2024-02-20,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+706,2024-02-17,Saudi Arabia,MENA,Riyadh,Mobile,Facebook,Paid Social
+707,2024-01-05,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+708,2024-02-08,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+709,2024-02-22,Saudi Arabia,MENA,Jeddah,Mobile,Organic,Organic Search
+710,2024-01-24,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+711,2024-03-13,Saudi Arabia,MENA,Riyadh,Desktop,Organic,Organic Search
+712,2024-02-01,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+713,2024-01-15,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+714,2024-02-05,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+715,2024-03-31,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+716,2024-01-16,United Arab Emirates,MENA,Abu Dhabi,Desktop,Organic,Organic Search
+717,2024-01-22,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+718,2024-01-30,Egypt,MENA,Alexandria,Mobile,Organic,Organic Search
+719,2024-01-24,Saudi Arabia,MENA,Jeddah,Desktop,Organic,Organic Search
+720,2024-01-11,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+721,2024-03-23,United Arab Emirates,MENA,Dubai,Tablet,Google Ads,Paid Search
+722,2024-03-13,Saudi Arabia,MENA,Riyadh,Desktop,Google Ads,Paid Search
+723,2024-02-17,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+724,2024-01-16,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+725,2024-01-28,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+726,2024-03-17,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+727,2024-03-08,Saudi Arabia,MENA,Jeddah,Mobile,Facebook,Paid Social
+728,2024-02-09,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+729,2024-01-14,Saudi Arabia,MENA,Riyadh,Tablet,Facebook,Paid Social
+730,2024-03-12,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+731,2024-01-16,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+732,2024-03-22,Egypt,MENA,Alexandria,Desktop,Facebook,Paid Social
+733,2024-01-13,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+734,2024-03-03,Egypt,MENA,Alexandria,Tablet,Email,Email Marketing
+735,2024-01-14,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+736,2024-03-13,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+737,2024-02-25,Saudi Arabia,MENA,Riyadh,Desktop,Organic,Organic Search
+738,2024-01-04,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+739,2024-03-20,Egypt,MENA,Cairo,Mobile,Google Ads,Paid Search
+740,2024-01-29,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+741,2024-03-28,Egypt,MENA,Cairo,Desktop,Organic,Organic Search
+742,2024-03-14,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+743,2024-02-15,Saudi Arabia,MENA,Riyadh,Tablet,Google Ads,Paid Search
+744,2024-02-29,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+745,2024-03-21,United Arab Emirates,MENA,Dubai,Mobile,Email,Email Marketing
+746,2024-01-31,Saudi Arabia,MENA,Jeddah,Tablet,Google Ads,Paid Search
+747,2024-03-01,United Arab Emirates,MENA,Abu Dhabi,Mobile,Organic,Organic Search
+748,2024-01-25,United Arab Emirates,MENA,Dubai,Desktop,Google Ads,Paid Search
+749,2024-02-10,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+750,2024-02-02,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+751,2024-03-28,Egypt,MENA,Cairo,Tablet,Google Ads,Paid Search
+752,2024-03-27,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+753,2024-02-20,United Arab Emirates,MENA,Abu Dhabi,Desktop,Google Ads,Paid Search
+754,2024-01-13,Saudi Arabia,MENA,Jeddah,Mobile,Email,Email Marketing
+755,2024-02-06,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+756,2024-02-09,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+757,2024-03-04,United Arab Emirates,MENA,Dubai,Mobile,Google Ads,Paid Search
+758,2024-01-05,Egypt,MENA,Cairo,Tablet,Facebook,Paid Social
+759,2024-01-17,United Arab Emirates,MENA,Abu Dhabi,Mobile,Email,Email Marketing
+760,2024-03-13,United Arab Emirates,MENA,Dubai,Desktop,Organic,Organic Search
+761,2024-01-01,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+762,2024-02-17,Saudi Arabia,MENA,Jeddah,Desktop,Google Ads,Paid Search
+763,2024-01-14,United Arab Emirates,MENA,Dubai,Tablet,Facebook,Paid Social
+764,2024-01-07,Egypt,MENA,Cairo,Mobile,Facebook,Paid Social
+765,2024-03-27,United Arab Emirates,MENA,Dubai,Tablet,Organic,Organic Search
+766,2024-02-10,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+767,2024-02-12,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+768,2024-02-12,United Arab Emirates,MENA,Dubai,Tablet,Email,Email Marketing
+769,2024-01-24,United Arab Emirates,MENA,Abu Dhabi,Tablet,Organic,Organic Search
+770,2024-02-21,Saudi Arabia,MENA,Riyadh,Desktop,Facebook,Paid Social
+771,2024-02-08,United Arab Emirates,MENA,Abu Dhabi,Desktop,Facebook,Paid Social
+772,2024-03-16,Saudi Arabia,MENA,Riyadh,Mobile,Organic,Organic Search
+773,2024-01-01,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+774,2024-02-27,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+775,2024-03-17,United Arab Emirates,MENA,Abu Dhabi,Tablet,Facebook,Paid Social
+776,2024-03-20,Saudi Arabia,MENA,Jeddah,Desktop,Facebook,Paid Social
+777,2024-03-30,Egypt,MENA,Giza,Tablet,Google Ads,Paid Search
+778,2024-03-31,Egypt,MENA,Giza,Desktop,Organic,Organic Search
+779,2024-01-12,Saudi Arabia,MENA,Riyadh,Mobile,Email,Email Marketing
+780,2024-01-27,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+781,2024-02-18,Egypt,MENA,Cairo,Tablet,Google Ads,Paid Search
+782,2024-01-27,Egypt,MENA,Cairo,Desktop,Facebook,Paid Social
+783,2024-01-27,United Arab Emirates,MENA,Dubai,Mobile,Organic,Organic Search
+784,2024-02-24,United Arab Emirates,MENA,Abu Dhabi,Desktop,Email,Email Marketing
+785,2024-01-15,Egypt,MENA,Alexandria,Tablet,Facebook,Paid Social
+786,2024-01-31,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+787,2024-01-03,Egypt,MENA,Giza,Tablet,Facebook,Paid Social
+788,2024-02-26,United Arab Emirates,MENA,Abu Dhabi,Mobile,Facebook,Paid Social
+789,2024-01-02,Saudi Arabia,MENA,Riyadh,Tablet,Email,Email Marketing
+790,2024-02-27,Saudi Arabia,MENA,Jeddah,Tablet,Email,Email Marketing
+791,2024-02-06,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+792,2024-01-01,Saudi Arabia,MENA,Jeddah,Tablet,Facebook,Paid Social
+793,2024-01-24,Egypt,MENA,Giza,Tablet,Organic,Organic Search
+794,2024-03-06,Egypt,MENA,Cairo,Desktop,Email,Email Marketing
+795,2024-01-23,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+796,2024-03-14,Saudi Arabia,MENA,Jeddah,Mobile,Google Ads,Paid Search
+797,2024-03-07,Saudi Arabia,MENA,Riyadh,Tablet,Organic,Organic Search
+798,2024-03-21,Egypt,MENA,Alexandria,Tablet,Organic,Organic Search
+799,2024-03-26,United Arab Emirates,MENA,Abu Dhabi,Tablet,Google Ads,Paid Search
+800,2024-03-26,Egypt,MENA,Cairo,Mobile,Organic,Organic Search
